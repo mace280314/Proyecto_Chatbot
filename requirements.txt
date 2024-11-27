@@ -1,0 +1,6 @@
+openai (para usar el modelo GPT)
+pandas (para manejo de datos)
+numpy (para cálculos)
+streamlit (para la interfaz)
+matplotlib (para gráficas)
+PyPDF2 (para procesar el archivo PDF)
